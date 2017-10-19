@@ -1,1 +1,6 @@
-# duplicate_and_increment
+# Duplicate lines and increment
+
+##Usage
+
+
+##Example

@@ -25,7 +25,8 @@ With this, you can make coding efficiently a large number of sequential number p
     ...
 
 ```
-##Usage
+
+## Usage
 Execute with placing the cursor (select no area)<br />
 ![example1](https://user-images.githubusercontent.com/7278251/31987177-f1caf258-b9a5-11e7-9f3c-d736bdd3ea51.jpg)<br />
 <br />
@@ -38,14 +39,14 @@ Execute with select multiple lines<br />
 Of course also json<br />
 ![example4](https://user-images.githubusercontent.com/7278251/31987208-00bb3ffc-b9a6-11e7-8ce8-5ca557203017.jpg)<br />
 
-##Install
+## Install
 
 1. select "Package Control: Add Repository"
 1. input "https://github.com/112KA/duplicate_and_increment"
 1. select "Package Control: Install Package"
 1. input "duplicate_and_increment"
 
-##Licence
+## Licence
 
 MIT License
 

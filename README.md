@@ -27,14 +27,14 @@ With this, you can make coding efficiently a large number of sequential number p
 ```
 
 ## Usage
-Execute with placing the cursor (select no area)<br />
+### Execute with placing the cursor (select no area)
 ![example1](https://user-images.githubusercontent.com/7278251/31987177-f1caf258-b9a5-11e7-9f3c-d736bdd3ea51.jpg)<br />
 <br />
-Execute with select any area<br />
+### Execute with select any area
 ![example2](https://user-images.githubusercontent.com/7278251/31987191-f7e3261a-b9a5-11e7-900b-f988702bf902.jpg)<br />
 Increment only selected numbers<br />
 <br />
-Execute with select multiple lines<br />
+### Execute with select multiple lines
 ![example3](https://user-images.githubusercontent.com/7278251/31987202-fd0f2ea4-b9a5-11e7-8afd-57e6d170072b.jpg)<br />
 Of course also json<br />
 ![example4](https://user-images.githubusercontent.com/7278251/31987208-00bb3ffc-b9a6-11e7-8ce8-5ca557203017.jpg)<br />

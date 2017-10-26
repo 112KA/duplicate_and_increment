@@ -6,5 +6,5 @@
 
 .DS_Store
 
-.jpg
-.psd
+*.jpg
+*.psd

@@ -38,6 +38,9 @@ Increment only selected numbers<br />
 ![example3](https://user-images.githubusercontent.com/7278251/31987202-fd0f2ea4-b9a5-11e7-8afd-57e6d170072b.jpg)<br />
 Of course also json<br />
 ![example4](https://user-images.githubusercontent.com/7278251/31987208-00bb3ffc-b9a6-11e7-8ce8-5ca557203017.jpg)<br />
+### Execute with key binding
+Select the area and press: `super+shift+ctrl+v` to duplicate and increment the selected area once.
+Select the area and press: `super+shift+alt+v` to open an input box where you can specify how many duplications and increment you want.
 
 ## Install
 

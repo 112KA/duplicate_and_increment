@@ -1,0 +1,10 @@
+[
+    {
+        "keys": ["super+shift+alt+v"],
+        "command": "duplicate_and_increment_input"
+    },
+    {
+        "keys": ["super+shift+ctrl+v"],
+        "command": "duplicate_and_increment"
+    }
+]
